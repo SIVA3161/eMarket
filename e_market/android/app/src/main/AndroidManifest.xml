@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.e_market">
+    <uses-permission android:name="android.permission.VIBRATE" />
    <application
         android:label="e_market"
         android:icon="@mipmap/ic_launcher">
